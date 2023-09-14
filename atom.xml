@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ilovexy</title>
+  
+  
+  <link href="https://chaoswhq.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://chaoswhq.github.io/"/>
+  <updated>2023-09-14T06:08:23.864Z</updated>
+  <id>https://chaoswhq.github.io/</id>
+  
+  <author>
+    <name>Chaos</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="https://chaoswhq.github.io/2023/09/14/first-page/"/>
+    <id>https://chaoswhq.github.io/2023/09/14/first-page/</id>
+    <published>2023-09-14T06:02:39.000Z</published>
+    <updated>2023-09-14T06:08:23.864Z</updated>
+    
+    <content type="html"><![CDATA[<p>说说这个博客要干嘛，程序员嘛，免不了写bug，在此记录一下。</p><p>还有就是平时爱好折腾，碰到有意思的事物也会在这里分享出来。</p><p>以上，欢迎交流。</p><hr><div  align="center">  <strong>如果这篇文章对您有帮助，请点击底部支持按钮</strong><br/>  <img src="https://i.loli.net/2020/04/14/ixFWBkJqK2z1ILD.gif" /></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;说说这个博客要干嘛，程序员嘛，免不了写bug，在此记录一下。&lt;/p&gt;
+&lt;p&gt;还有就是平时爱好折腾，碰到有意思的事物也会在这里分享出来。&lt;/p&gt;
+&lt;p&gt;以上，欢迎交流。&lt;/p&gt;
+&lt;hr&gt;
+&lt;div  align=&quot;center&quot;&gt;
+  &lt;strong&gt;如果这篇文章对您有帮助，</summary>
+      
+    
+    
+    
+    <category term="xy" scheme="https://chaoswhq.github.io/categories/xy/"/>
+    
+    
+    <category term="xy" scheme="https://chaoswhq.github.io/tags/xy/"/>
+    
+  </entry>
+  
+</feed>
